@@ -14,5 +14,4 @@ Today I will change
 Yesssss
 > Vamoooooss
 
-
-(/assets/images/electrocat.png)
+</assets/images/electrocat.png)
